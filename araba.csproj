@@ -223,7 +223,9 @@
     <Compile Include="Assets\Cars\Scripts\CarController.cs" />
     <Compile Include="Assets\Cars\Scripts\KameraScript.cs" />
     <Compile Include="Assets\Cars\Scripts\skor.cs" />
+    <Compile Include="Assets\Cars\Scripts\skor2.cs" />
     <Compile Include="Assets\Cars\Scripts\Sonsuzyol.cs" />
+    <Compile Include="Assets\Cars\Scripts\yokolma.cs" />
     <Compile Include="Assets\Cars\Standard Assets\Character Controllers\Sources\Scripts\MouseLook.cs" />
     <Compile Include="Assets\GrassRoadRace\Script\CameraMove.cs" />
   </ItemGroup>

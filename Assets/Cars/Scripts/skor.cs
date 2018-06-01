@@ -17,5 +17,8 @@ public class skor : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
         skortext.text = player.position.z.ToString("0");
+        
 	}
+    
+
 }
