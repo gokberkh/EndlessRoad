@@ -21,7 +21,7 @@ public class yokolma : MonoBehaviour
         if (ad.name == "FireGTO")
         {
             Destroy(gameObject);
-            skor2.puan++;
+            skor2.puan+=10;
 
 
 
