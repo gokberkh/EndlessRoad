@@ -1,7 +1,10 @@
 # endlessRoad
 
 Endless road advancing car game with Unity 3D
-
+The game that collects gold progressing on endless road
+There is actually only one path in this project, the same path is cloned to form the next path.
+The vehicle is controlled by gas brake and steering.
+Yellow gold increases the score, red decreases.
 
 
 Sonsuz yolda ilerleyen altınları toplayan oyun
